@@ -1,9 +1,12 @@
 # MyProjects
 
 ## About me
-I'm Alexandra Elizabeth Mora Jara, a dedicated Data Analyst with over four years of experience in data analysis and business problem-solving. This repository was created to highlight my analytical and technical skills, featuring my proficiency in tools such as Power BI, SQL, Excel, Python and more.
 
-Through this portfolio I aim to showcase my skills, share various projects I've worked on and track my ongoing progress in the field of Data Analytics. Whether you're here to explore my work, collaborate on projects, or simply learn more about my capabilities, I hope you find this repository both informative and inspiring :]
+Hello!
+
+Welcome to my portfolio, my name is Alexandra Elizabeth Mora Jara, a dedicated Data Analyst with over four years of experience in data analysis and business problem-solving. This repository was created to highlight my analytical and technical skills, featuring my proficiency in tools such as Power BI, SQL, Excel, Python and more.
+
+Through this portfolio I aim to showcase my skills, share various projects I've worked on and track my ongoing progress in the field of Data Analytics. Whether you're here to explore my work, collaborate on projects, or simply learn more about my capabilities, I hope you find this repository both informative and inspiring :)
 
 Feel free to browse through my projects, review my certifications, and get a sense of the analytical solutions I've delivered to drive business success.
 
@@ -51,3 +54,4 @@ This case study analyzes the use of smart devices similar to Bellabeat to identi
 
 ## Contact Information
 Linkedin: www.linkedin.com/in/alexandra-elizabeth-mora-jara
+Email: alexandraemorajara@gmail.com
